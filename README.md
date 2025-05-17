@@ -1,3 +1,12 @@
+# AI-Powered-Recommendation-Engine-Django-Rest-Framework
+  # *Company*: CODTECH IT SOLUTIONS
+  # *NAME*: ANIL KUMAR SINGH
+  # *INTERN ID*: CT06DA413
+  # *DOMAIN*: BACK END DEVELOPMENT
+  # *DURATION*: 6 WEEKS
+  # *MENTOR*: NEELA SANTOSH
+
+
 [![Recommender Course Image](https://static.codingforentrepreneurs.com/media/courses/recommender/8aa6d83c-8134-4e68-8954-65bc978033b2.jpg)](https://www.codingforentrepreneurs.com/courses/recommender/)
 
 # Recommender
